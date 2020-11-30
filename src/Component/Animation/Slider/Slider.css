@@ -1,0 +1,19 @@
+.review-img {
+	border-radius: 4rem !important;
+	height: 120px;
+	width: 120px;
+	border: 5px solid #dddddd !important;
+	margin: 0 auto !important;
+	text-align: center;
+}
+.review-icon svg {
+	font-size: 3rem;
+	color: #e65f78;
+	margin: 5px;
+}
+.review-quote {
+	font-size: 18px;
+	font-style: italic;
+	color: #6c757d !important;
+	max-width: 700px;
+}

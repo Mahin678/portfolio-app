@@ -1,0 +1,35 @@
+.bg-color {
+	background-color: rgba(0, 0, 0, 0.1);
+}
+.bg-nav {
+	background: linear-gradient(rgba(15, 94, 156, 0.9), rgba(15, 94, 156, 0.9)),
+		url('https://mahins.netlify.app/css/scss/images/IMG_20200110_154509.jpg');
+	background-position: 50% 50%;
+	background-position: top;
+}
+.custom-btn-header {
+	width: 150px;
+	border: 1px solid white;
+	color: white;
+	padding: 8px;
+	margin: 5px;
+}
+.custom-btn-header:hover {
+	background-color: black !important;
+	color: white;
+	border: 1px solid transparent;
+}
+.nav-link {
+	color: white !important;
+}
+.nav-link:hover {
+	border-bottom: 1px solid white;
+	text-shadow: slategrey;
+}
+.navbar-toggler:focus {
+	border: none;
+	outline: none;
+}
+.navbar-toggler:focus-within {
+	border: none;
+}

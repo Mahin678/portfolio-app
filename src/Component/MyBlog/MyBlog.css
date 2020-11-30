@@ -1,0 +1,25 @@
+.blog-item {
+	height: 12rem !important;
+	width: 100% !important;
+}
+.my-blog {
+	background-color: #f4f7fc;
+	text-decoration: none;
+}
+.blog-card {
+	transition: 0.3s;
+	background-color: #fff;
+}
+.blog-card:hover {
+	transition: 0.3s;
+	transform: translatey(-5px);
+	box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.195);
+}
+.text-title {
+	max-width: 500px;
+	margin: 0 auto;
+}
+.all-blog a {
+	text-decoration: none;
+	color: black;
+}

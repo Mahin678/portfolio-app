@@ -1,0 +1,35 @@
+.progress-bar {
+	background-color: white !important;
+}
+.inner-rect-bar {
+	background-color: blue !important;
+}
+.progress-title {
+	position: relative;
+}
+.progress-title span {
+	width: 30px;
+	height: 30px;
+	display: block;
+	border-radius: 30px;
+	position: relative;
+}
+.progress-expert-shape {
+	background-color: #e6e2d3;
+}
+.progress-comfortable-shape {
+	background-color: #deeaee;
+}
+.progress-familiars-shape {
+	background-color: #e6e2d3;
+}
+.progress-title p {
+	margin: 3px 15px;
+	top: 0;
+	position: absolute;
+	color: black;
+}
+.skills-wrapper {
+	background: #ffffff;
+	box-shadow: 13px 18px 58px rgba(0, 0, 0, 0.07);
+}

@@ -1,0 +1,31 @@
+.allProject-details-img {
+	height: 18rem !important;
+	overflow: hidden;
+	margin: 0 auto;
+	text-align: center;
+}
+.allProject-details-img img {
+	height: 25em;
+	object-fit: fill;
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 100% !important;
+}
+.allProject-details-img img:hover {
+}
+.welCome-allProject {
+	margin-top: 100px !important;
+}
+.allProject-icon a {
+	color: 'black' !important;
+}
+.mern-title {
+	border-left: 4px solid #e04641 !important;
+	width: 250px;
+	margin: 0 auto;
+}
+.vanila-title {
+	border-left: 4px solid #e04641 !important;
+	width: 400px;
+	margin: 0 auto;
+}
